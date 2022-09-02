@@ -1,0 +1,14 @@
+{
+    "name": "domiredo.com",
+    "version": "1.0.0",
+    "description": "Domiredo website",
+    "scripts": {
+      "start": "static public -c 1 -a 0.0.0.0 -p 8000"
+    },
+    "private": true,
+    "license": "UNLICENSED",
+    "devDependencies": {
+      "node-static": "^0.7.11"
+    },
+    "dependencies": {}
+  }
